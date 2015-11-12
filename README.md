@@ -16,3 +16,6 @@ TEST AUTOMATION
 https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md
 http://atinfo.github.io/at.info-knowledge-base/
 
+PYWBEM
+http://pywbem.github.io/
+
