@@ -1,12 +1,8 @@
-# hello-world
-# coderbyte.com
-# codecademy.com
+#Usefull links for  learning:
 
-Usefull links for  learning:
-
-######################## 
-#### Programming:   ####
-######################## 
+###################### 
+## Programming:   ####
+###################### 
 
 coderbyte.com
 codecademy.com
